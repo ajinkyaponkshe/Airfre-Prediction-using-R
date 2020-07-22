@@ -1,4 +1,4 @@
-# Airfre-Prediction-using-R
+# Airfare-Prediction-using-R
 
 A consulting firm working for Southwest Airlines would like to predict airfares; which contains real data that were collected between Q3-1996 and Q21997.  The variables in these data are listed below
 Variable Description: S_CODE:  Starting airport’s code 
